@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @parvezhossainme ; a noob from another world :)
-- -,- Due to many infected codes on my repos :| I made 99% repos private :(
-- 👀 I’m interested ASM and smali :|
-- 🌱 I’m currently learning stack from scratch!
+
