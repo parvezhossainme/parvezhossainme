@@ -4,7 +4,7 @@
 
 [![Visitors](https://komarev.com/ghpvc/?username=parvezhossainme&style=for-the-badge&color=brightgreen)](https://github.com/parvezhossainme)
 [![GitHub Followers](https://img.shields.io/github/followers/parvezhossainme?style=for-the-badge)](https://github.com/parvezhossainme?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=for-the-badge&logo=twitter)](https://twitter.com/yourtwitterhandle)
+[![Twitter Follow](https://img.shields.io/twitter/follow/parvezhossainme?style=for-the-badge&logo=twitter)](https://twitter.com/parvezhossainme)
 
 ---
 
